@@ -24,6 +24,8 @@ li{
 .tabela{
     border-style: dashed;
     font-style: oblique;
+    border-color: rgb(0, 128, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .link:hover{
