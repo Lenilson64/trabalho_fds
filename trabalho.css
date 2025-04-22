@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(180, 180, 180);
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 0, 150);
+}
+
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+
+li{
+    margin: 30px;
+}
+
+.imagem{
+    border-radius: 3%;
+    width: 500px;
+}
+
+.tabela{
+    border-style: dashed;
+    font-style: oblique;
+}
+
+.link:hover{
+    color: red;
+}
